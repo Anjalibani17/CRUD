@@ -1,0 +1,26 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anjalibani17/CRUD.git"
+  },
+  "keywords": [
+    "crud",
+    "operation",
+    "mysql",
+    "express",
+    "js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anjalibani17/CRUD/issues"
+  },
+  "homepage": "https://github.com/Anjalibani17/CRUD#readme"
+}
